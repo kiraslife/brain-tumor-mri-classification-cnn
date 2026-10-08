@@ -1,6 +1,6 @@
 # 🧠 doc.ai: MRI Diagnostic Portal
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/) <!-- Replace with your actual Streamlit URL -->
+[[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)](https://brain-tumor-mri-classification-cnn-ml.streamlit.app/) 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org)
 
